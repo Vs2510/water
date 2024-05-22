@@ -1,0 +1,15 @@
+Guruprasad K N, Chethan S, Nithingowda A M, P Balakrishna, and Dasharatha A M. "Smart Water Management and Monitoring System for Apartments Using IoT Environment." In proceedings of the International Conference on Emerging Trends in Engineering, Science and Technology (ICETEST), ATME College of Engineering, Mysuru, India, 2022.
+
+The paper presents a smart water management and monitoring system for apartments utilizing IoT technology, which integrates real-time water level monitoring, distribution control, and water quality assessment to effectively manage water resources. Additionally, it offers a cost-effective solution with features such as automatic billing and leakage detection, contributing to water conservation efforts and addressing challenges in urban water distribution systems.
+
+Arish Panjwani, Swati Chand, Ajay More, Rushabh Panjwani. "Water Usage Control and Management Based on IoT." Department of Computer Engineering, Dr. D. Y. Patil School of Engineering and Technology, Savitribai Phule Pune University, Pune, Maharashtra, India.
+
+The paper presents a comprehensive water management system utilizing IoT sensors for real-time monitoring and control of water usage in individual flats. It introduces features such as automatic billing based on usage, remote shut-off of water flow, and quality detection, contributing to efficient water conservation and management.
+
+Xiye Feng, Dawei Zang, Lelin Yan, Wenfeng Xie, Hailin Zhu, Xiaoyan Yin, and Meihui Xu. "Design of Smart Water Meter System Based on Cloud Computing." School of Information Science & Engineering, Qilu Normal University, Jinan, China. Presidents’ Office, Qilu Normal University, Jinan, China. Office of Educational Administration, Qilu Normal University, Jinan, China. School of Information Science & Engineering, University of Jinan, Jinan, China.
+
+The research on smart water meter systems based on cloud computing offers a comprehensive framework integrating remote meter reading, data management, and cloud server processing, paving the way for more efficient water resource management. Its implementation of algorithms and system modules marks a significant advancement in water meter technology towards a more intelligent direction.
+
+Amir, A., Fauzi, R., & Arifin, Y. (Year of Publication). Smart water meter for automatic meter reading. Electrical Engineering Department, Tadulako University, Palu, Central Sulawesi.
+
+The proposed smart water meter system integrates IoT technology and a flow meter sensor to provide real-time monitoring of water consumption. It also incorporates a solenoid valve to automatically shut off the water flow when a predetermined volume is reached, contributing to efficient water resource management in smart cities.
